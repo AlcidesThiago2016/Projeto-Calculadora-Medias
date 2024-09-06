@@ -20,7 +20,7 @@ Javascript, HTML, CSS...
 
 ## Link Site Externo
 
-- https://projeto-game-shop-gules.vercel.app
+
 
 ## Licença
 
