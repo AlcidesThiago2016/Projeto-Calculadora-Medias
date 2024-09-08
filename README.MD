@@ -20,7 +20,7 @@ Javascript, HTML, CSS...
 
 ## Link Site Externo
 
-
+- https://thiago-projeto-calculadora-medias-two.vercel.app
 
 ## Licença
 
